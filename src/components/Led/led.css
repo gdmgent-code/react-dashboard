@@ -1,0 +1,12 @@
+.led {
+  background: #000;
+  border-radius: 50%;
+
+  display: block;
+  width: 16px;
+  height: 16px;
+}
+
+.led--ison {
+  background: #F00;
+}
